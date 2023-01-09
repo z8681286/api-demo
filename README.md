@@ -43,14 +43,14 @@ mypro/
     ├── __init__.py
     ├── test_case   # 按照功能模块划分
     │   ├── __init__.py
-    │   ├── test_case_create.py
-    │   └── test_case_query.py
+    │   ├── test_case_demo_create.py
+    │   └── test_case_demo_query.py
     ├── test_module
     │   ├── __init__.py
-    │   └── test_module_query.py
+    │   └── test_module_demo_query.py
     ├── test_project
     │   ├── __init__.py
-    │   └── test_project_query.py
+    │   └── test_project_demo_query.py
     └── test_user
         ├── __init__.py
         └── test_user_abnormal.py
