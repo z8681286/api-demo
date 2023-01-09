@@ -10,7 +10,7 @@ from quick_public.module.module_v1 import Module
 from test_data import UserInfo
 
 
-class TestCaseCreate(seldom.TestCase):
+class TestCaseDemoCreate(seldom.TestCase):
     """
     创建用例
     """

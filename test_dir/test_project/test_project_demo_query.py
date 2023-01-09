@@ -9,7 +9,7 @@ from quick_public.user.user_v1 import UserLogin
 from test_data import UserInfo
 
 
-class TestProjectCreate(seldom.TestCase):
+class TestProjectDemoCreate(seldom.TestCase):
     """
     测试项目创建
     """

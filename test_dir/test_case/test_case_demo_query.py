@@ -10,7 +10,7 @@ from quick_public.module.module_v1 import Module
 from test_data import UserInfo
 
 
-class TestCaseQuery(seldom.TestCase):
+class TestCaseDemoQuery(seldom.TestCase):
     """
     测试用例查询
     """
